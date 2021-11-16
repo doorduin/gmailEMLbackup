@@ -19,4 +19,4 @@ To get the most up to date help and usage execute the following:
 python gmailEMLbackup.py -h
 ```
 
-The first time the script is run it will authenticate to the Google API's. The app accessing the details is registered as: gmail EML Backup
+The first time the script is run it will authenticate to the Google API's. The app accessing the details is registered as: gmail EML Backup on https://console.cloud.google.com/
